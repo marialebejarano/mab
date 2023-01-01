@@ -1,1 +1,13 @@
-
+[
+ {"url":"ave.wav","type":"audio","bank":"bs","n":0},
+ {"url":"cara.wav","type":"audio","bank":"bs","n":1},
+ {"url":"foto.wav","type":"audio","bank":"bs","n":2},
+ {"url":"hoja.wav","type":"audio","bank":"bs","n":3},
+ {"url":"libro.wav","type":"audio","bank":"bs","n":4},
+ {"url":"parlante","type":"audio","bank":"bs","n":5},
+ {"url":"1do.wav","type":"audio","bank":"bs","n":6},
+ {"url":"2re.wav","type":"audio","bank":"bs","n":7},
+ {"url":"3fa.wav","type":"audio","bank":"bs","n":8},
+ {"url":"4sol.wav","type":"audio","bank":"bs","n":9},
+ {"url":"5la.wav","type":"audio","bank":"bs","n":10}
+  ]

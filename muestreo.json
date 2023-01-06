@@ -9,5 +9,6 @@
  {"url":"2re.wav","type":"audio","bank":"bs","n":7},
  {"url":"3fa.wav","type":"audio","bank":"bs","n":8},
  {"url":"4sol.wav","type":"audio","bank":"bs","n":9},
- {"url":"5la.wav","type":"audio","bank":"bs","n":10}
+ {"url":"5la.wav","type":"audio","bank":"bs","n":10},
+ {"url":"lima.wav","type":"audio","bank":"bs","n":11}
   ]
